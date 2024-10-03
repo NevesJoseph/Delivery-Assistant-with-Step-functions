@@ -48,7 +48,7 @@ O projeto utiliza um arquivo JSON de definição do Step Functions que contém t
    - Solicita sugestões de sobremesas 
 
 3. **"Invoke model with third prompt"**
-   - Solicita recomendações de lugares para jantar na Itália
+   - Solicita recomendações de lugares para jantar na "Itália"
 
 Entre cada chamada ao modelo, existem estados de "Pass" que gerenciam o histórico da conversa, garantindo contexto entre as interações.
 
